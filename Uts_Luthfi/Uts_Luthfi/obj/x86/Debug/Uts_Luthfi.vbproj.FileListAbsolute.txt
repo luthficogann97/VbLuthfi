@@ -1,0 +1,9 @@
+D:\LUTHFI\vb tugas\Uts_Luthfi\Uts_Luthfi\obj\x86\Debug\Uts_Luthfi.Form1.resources
+D:\LUTHFI\vb tugas\Uts_Luthfi\Uts_Luthfi\obj\x86\Debug\Uts_Luthfi.Resources.resources
+D:\LUTHFI\vb tugas\Uts_Luthfi\Uts_Luthfi\obj\x86\Debug\Uts_Luthfi.vbproj.GenerateResource.Cache
+D:\LUTHFI\vb tugas\Uts_Luthfi\Uts_Luthfi\bin\Debug\Uts_Luthfi.exe
+D:\LUTHFI\vb tugas\Uts_Luthfi\Uts_Luthfi\bin\Debug\Uts_Luthfi.pdb
+D:\LUTHFI\vb tugas\Uts_Luthfi\Uts_Luthfi\bin\Debug\Uts_Luthfi.xml
+D:\LUTHFI\vb tugas\Uts_Luthfi\Uts_Luthfi\obj\x86\Debug\Uts_Luthfi.exe
+D:\LUTHFI\vb tugas\Uts_Luthfi\Uts_Luthfi\obj\x86\Debug\Uts_Luthfi.xml
+D:\LUTHFI\vb tugas\Uts_Luthfi\Uts_Luthfi\obj\x86\Debug\Uts_Luthfi.pdb

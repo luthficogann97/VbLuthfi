@@ -1,0 +1,9 @@
+D:\Formatifvb\Formatifvb\Formatifvb\obj\x86\Debug\Formatifvb.Form1.resources
+D:\Formatifvb\Formatifvb\Formatifvb\obj\x86\Debug\Formatifvb.Resources.resources
+D:\Formatifvb\Formatifvb\Formatifvb\obj\x86\Debug\Formatifvb.vbproj.GenerateResource.Cache
+D:\Formatifvb\Formatifvb\Formatifvb\bin\Debug\Formatifvb.exe
+D:\Formatifvb\Formatifvb\Formatifvb\bin\Debug\Formatifvb.pdb
+D:\Formatifvb\Formatifvb\Formatifvb\bin\Debug\Formatifvb.xml
+D:\Formatifvb\Formatifvb\Formatifvb\obj\x86\Debug\Formatifvb.exe
+D:\Formatifvb\Formatifvb\Formatifvb\obj\x86\Debug\Formatifvb.xml
+D:\Formatifvb\Formatifvb\Formatifvb\obj\x86\Debug\Formatifvb.pdb
